@@ -1,0 +1,31 @@
+.caldes {
+    padding: 20px;
+    border-radius: 1.5em;
+    height: 500px;
+    width: 300px;
+    background-color:black;
+    margin : 0 40%;
+  }
+  .display-box {
+    background-color: black;
+    border: solid gray 0.5px;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+ 
+  }
+  input[type="button"] {
+    background-color: gray;
+    color: black;
+    border: solid black 0.5px;
+    border-radius: 50%;
+    width: 100%;
+    height: 70%;
+  }
+  input:active[type="button"] {
+    background: #e5e5e5;
+  }
+  #btn {
+    background-color: gray;
+  }
